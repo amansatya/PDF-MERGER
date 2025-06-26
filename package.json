@@ -1,0 +1,27 @@
+{
+  "name": "pdf-merger",
+  "version": "1.0.0",
+  "description": "WEBAPP TO MERGE PDF USING JAVASCRIPT AND BOOTSTRAP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansatya/PDF-MERGER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amansatya/PDF-MERGER/issues"
+  },
+  "homepage": "https://github.com/amansatya/PDF-MERGER#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "pdf-merger-js": "^4.1.2"
+  }
+}
